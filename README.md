@@ -16,31 +16,67 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >최근 프로젝트 순으로 진행됩니다.
 
 ## 1.  PMS(프로젝트 관리 시스템) 사이트
+
 >Project Planner 사이트 - 최종 프로젝트<br>
 >- 주제 : 프로젝트 관리 시스템<br>
 >- 기간: 2024. 07. 22 ~ 2024. 08. 26<br>
 >> - 담당 영역 : 로그인, 사원등록(회원가입), 마이페이지, 실시간 채팅, 프로젝트 예산 관리
 >> - 역할 : PPT 제작, 문서 형식 제작
->> - 핵심 기술: Spring Boot 사용, SVN 사용, 프로젝트 시나리오 작성 <br>
+>> - 핵심 기술: Spring Boot 사용, SVN 사용, 프로젝트 시나리오 작성<br>
 >>   <br>
 >> - 스킬
 >> 1. Back-end 
->> : Java, Spring mvc/boot, DataBase(SQL)
+>> : Java, Spring mvc, Spring boot, DataBase(SQL)
 >> 2. Front-end
 >>: HTML, CSS, javascript, jsp <br>
 >>> 최종 프로젝트 상세설명(https://github.com/hsy2493/Project_Planner)<br>
 
 ## 2. 기차표 예매 사이트 
+
 >휴먼철도999(HumanRail999) 사이트 - 4회차 프로젝트<br>
 >- 주제 : 기차표 예매
 >- 기간 : 2024. 06. 19 ~ 2024. 07. 12
 >> - 담당 영역 : 로그인, 회원가입, 기차표 예매
 >> - 역할 : PPT 제작, 문서 형식 제작
->> - 핵심 기술 : ERD 설계, Spring mvc 사용 <br>
+>> - 핵심 기술 : 데이터 베이스(DB) 설계/ERD 설계, Spring mvc 사용<br>
 >>   <br>
 >> - 스킬
 >> 1. Back-end
 >> : Java, Spring mvc, DataBase(Mybatis)
 >> 2. Front-end
->> : HTML, CSS, javascript, jsp <br>
+>> : HTML, CSS, javascript, jsp<br>
 >>> 4회차 프로젝트 상세설명(https://github.com/hsy2493/HumanRail999)<br>
+
+### 3. 인터넷 강의 사이트
+
+>ETC 사이트 - 3회차 프로젝트<br>
+> - 주제 : 인터넷 강의
+> - 기간 : 2024. 05. 27 ~ 2024. 06. 17
+>> - 담당 영역 : 로그인, 회원가입
+>> - 역할 : PPT 제작
+>> - 핵심 기술 : Databese 설계, Spring mvc 사용<br>
+>>   <br>
+>> - 스킬
+>> 1. Back-end
+>> : Java, Spring mvc, DataBase(SQL)
+>> 2. Front-end
+>> : HTML, CSS, Javascript, jsp <br>
+>>> 3회차 프로젝트 상세설명(https://github.com/hsy2493/ETC)<br>
+
+### 4. 자격증 사이트
+
+>O1Y3 사이트 - 2회차 프로젝트<br>
+> - 주제 :  자격증 사이트
+> - 기간 : 2024. 05. 08 ~ 2024. 05. 24
+>> - 담당 영역 : 로그인, 회원가입
+>> - 역할 : PPT 제작, 문서 작성
+>> - 핵심 기술 : 워크 플로우 작성<br>
+>> <br>
+>> - 스킬
+>> 1. Front-end
+>> : HTML, CSS, Javascript, jsp <br>
+>>> 2회차 프로젝트 상세설명(https://github.com/hsy2493/O1Y3))<br>
+
+### 5. 온라인 게임 사이트
+
+>HumanBox 사이트 - 1회차 프로젝트<br>
