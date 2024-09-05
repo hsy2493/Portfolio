@@ -1,5 +1,5 @@
 # Portfolio
-황서영(HwangSeoYoung) - 포트폴리오(Portfolio)
+황서영(SeoYoung Hwang) - 포트폴리오(Portfolio)
 
 ##  Intro
 >안녕하세요! "로그인부터 시작된 끝없는 개발자", 황서영 입니다.
@@ -29,7 +29,8 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> : Java, Spring mvc, Spring boot, DataBase(SQL)
 >> 2. Front-end
 >>: HTML, CSS, javascript, jsp <br>
->>> 최종 프로젝트 상세설명(https://github.com/hsy2493/Project_Planner)<br>
+>>> - 최종 프로젝트 상세설명(https://github.com/hsy2493/Project_Planner)<br>
+>>> - 동영상 시청()
 
 ## 2. 기차표 예매 사이트 
 
@@ -47,7 +48,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> : HTML, CSS, javascript, jsp<br>
 >>> 4회차 프로젝트 상세설명(https://github.com/hsy2493/HumanRail999)<br>
 
-### 3. 인터넷 강의 사이트
+## 3. 인터넷 강의 사이트
 
 >ETC 사이트 - 3회차 프로젝트<br>
 > - 주제 : 인터넷 강의
@@ -63,20 +64,42 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> : HTML, CSS, Javascript, jsp <br>
 >>> 3회차 프로젝트 상세설명(https://github.com/hsy2493/ETC)<br>
 
-### 4. 자격증 사이트
+## 4. 자격증 사이트
 
 >O1Y3 사이트 - 2회차 프로젝트<br>
 > - 주제 :  자격증 사이트
 > - 기간 : 2024. 05. 08 ~ 2024. 05. 24
 >> - 담당 영역 : 로그인, 회원가입
->> - 역할 : PPT 제작, 문서 작성
+>> - 역할 : PPT 제작, 문서 형식 제작
 >> - 핵심 기술 : 워크 플로우 작성<br>
->> <br>
+>>   <br>
 >> - 스킬
 >> 1. Front-end
 >> : HTML, CSS, Javascript, jsp <br>
 >>> 2회차 프로젝트 상세설명(https://github.com/hsy2493/O1Y3))<br>
 
-### 5. 온라인 게임 사이트
+## 5. 온라인 게임 사이트
 
 >HumanBox 사이트 - 1회차 프로젝트<br>
+> - 주제 : 온라인 게임
+> - 기간 : 2024. 04. 15 ~ 2024. 05. 03
+>> - 담당 영역 : 로그인, 회원가입
+>> - 역할 : PPT 제작, 문서 형식 제작
+>> - 핵심 기술 : 일정표, 역할 분담, 요구사항 정의서, 화면설계, 화면/기능 구현 작성
+>>   <br><br>
+>> - 스킬
+>> 1. Front-end
+>> : HTML, CSS, Javascript  
+>>>  1회차 프로젝트 상세설명(https://github.com/hsy2493/HumanBox)<br>
+
+## 6. TV 프로그램 시청 사이트 
+
+>Watcha 사이트 - 미니 프로젝트<br>
+> - 주제 : TV 프로그램 시청
+> - 기간 : 2024. 03. 27 ~ 2024. 04. 03
+>> - 담당 영역 : 로그인, 회원가입
+>>   <br>
+>> - 스킬
+>> 1. Front-end
+>>: HTML, CSS
+>>> 미니 프로젝트 상세설명(https://github.com/hsy2493/Watcha)<br>
