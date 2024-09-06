@@ -81,7 +81,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> - 스킬
 >> 1. Front-end <br>
 >> : HTML, CSS, Javascript, jsp <br>
->>> 2회차 프로젝트 상세설명 (https://github.com/hsy2493/O1Y3))<br>
+>>> 2회차 프로젝트 상세설명 (https://github.com/hsy2493/O1Y3)<br>
 
 ## 5. 온라인 게임 사이트 ⚔
 
