@@ -36,7 +36,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> : HTML, CSS, javascript, jsp <br>
 >>> - PPT 자료 (https://github.com/hsy2493/Project_Planner/issues/1#issue-2509863227)<br>
 >>> - 최종 프로젝트 상세설명 (https://github.com/hsy2493/Project_Planner)<br>
->>> - 동영상 시청 : PPT 발표/사이트 시연 (https://blog.naver.com/hsy24317/223574635493)<br>
+>>> - 동영상 시청 : PPT 발표 및 Project Planner (PMS) 사이트 시연 (https://blog.naver.com/hsy24317/223574635493)<br>
 
 ## 2. 기차표 예매 사이트 🚂
 
