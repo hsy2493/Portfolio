@@ -34,6 +34,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> : Java, Spring mvc, Spring Boot, DataBase(SQL)
 >> 2. Front-end <br>
 >> : HTML, CSS, javascript, jsp <br>
+>>> - PPT 자료 ()
 >>> - 최종 프로젝트 상세설명 (https://github.com/hsy2493/Project_Planner)<br>
 >>> - 동영상 시청 : PPT 발표/사이트 시연 (https://blog.naver.com/hsy24317/223574635493)<br>
 
@@ -51,7 +52,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> : Java, Spring mvc, DataBase(Mybatis)
 >> 2. Front-end <br>
 >> : HTML, CSS, javascript, jsp<br>
->>> 4회차 프로젝트 상세설명 (https://github.com/hsy2493/HumanRail999)<br>
+>>> - 4회차 프로젝트 상세설명 (https://github.com/hsy2493/HumanRail999)<br>
 
 ## 3. 인터넷 강의 사이트 💻
 
@@ -67,7 +68,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> : Java, Spring mvc, DataBase(SQL)
 >> 2. Front-end <br>
 >> : HTML, CSS, Javascript, jsp <br>
->>> 3회차 프로젝트 상세설명 (https://github.com/hsy2493/ETC)<br>
+>>> - 3회차 프로젝트 상세설명 (https://github.com/hsy2493/ETC)<br>
 
 ## 4. 자격증 사이트 📝
 
@@ -81,7 +82,8 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> - 스킬
 >> 1. Front-end <br>
 >> : HTML, CSS, Javascript, jsp <br>
->>> 2회차 프로젝트 상세설명 (https://github.com/hsy2493/O1Y3)<br>
+>>> - 2회차 프로젝트 상세설명 (https://github.com/hsy2493/O1Y3)<br>
+>>> - PPT 자료 (https://github.com/hsy2493/O1Y3/issues/1#issue-2509827477)
 
 ## 5. 온라인 게임 사이트 ⚔
 
@@ -95,7 +97,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> - 스킬
 >> 1. Front-end <br>
 >> : HTML, CSS, Javascript  
->>>  1회차 프로젝트 상세설명 (https://github.com/hsy2493/HumanBox)<br>
+>>>  - 1회차 프로젝트 상세설명 (https://github.com/hsy2493/HumanBox)<br>
 
 ## 6. TV 프로그램 시청 사이트 📺
 
@@ -107,7 +109,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> - 스킬
 >> 1. Front-end <br>
 >>: HTML, CSS
->>> 미니 프로젝트 상세설명 (https://github.com/hsy2493/Watcha)<br>
+>>> - 미니 프로젝트 상세설명 (https://github.com/hsy2493/Watcha)<br>
 
 
 # 연락처(Contact) 📬
