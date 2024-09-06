@@ -33,7 +33,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> 1. Back-end <br>
 >> : Java, Spring mvc, Spring Boot, DataBase(SQL)
 >> 2. Front-end <br>
->>: HTML, CSS, javascript, jsp <br>
+>> : HTML, CSS, javascript, jsp <br>
 >>> - 최종 프로젝트 상세설명 (https://github.com/hsy2493/Project_Planner)<br>
 >>> - 동영상 시청 : PPT 발표/사이트 시연 (https://blog.naver.com/hsy24317/223574635493)<br>
 
