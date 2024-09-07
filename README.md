@@ -72,7 +72,7 @@ PPT 제작, <br>
 >>   <br>
 >> - 스킬
 >> 1. Back-end <br>
->> : Java, Spring mvc, DataBase(SQL)
+>> : Java, Spring mvc, DataBase
 >> 2. Front-end <br>
 >> : HTML, CSS, Javascript, jsp <br>
 >>> - 3회차 프로젝트 상세설명<br>
