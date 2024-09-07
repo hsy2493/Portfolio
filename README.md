@@ -99,7 +99,7 @@ PPT 제작, <br>
 
 ## 5. 온라인 게임 사이트 ⚔
 
-`>HumanBox 사이트` - 1회차 프로젝트<br>
+>`HumanBox 사이트` - 1회차 프로젝트<br>
 > - 주제 : 온라인 게임 [참고 사이트 - 넥슨(Nexon) (https://www.nexon.com/Home/Game)]
 > - 기간 : 2024. 04. 15 ~ 2024. 05. 03
 >> - 주요 기능 : 로그인, 회원가입
@@ -115,7 +115,7 @@ PPT 제작, <br>
 >>>   https://github.com/hsy2493/HumanBox/issues/1#issue-2509844041 <br>
 ## 6. TV 프로그램 시청 사이트 📺
 
-> `Watcha 사이트` - 미니 프로젝트 [참고 사이트 - 왓챠(Watcha) (https://watcha.com/)] <br>
+>`Watcha 사이트` - 미니 프로젝트 [참고 사이트 - 왓챠(Watcha) (https://watcha.com/)] <br>
 > - 주제 : TV 프로그램 시청
 > - 기간 : 2024. 03. 27 ~ 2024. 04. 03
 >> - 주요 기능 : 로그인, 회원가입 <br>
