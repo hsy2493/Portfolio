@@ -35,9 +35,12 @@ PPT 제작, <br>
 >> : Java, Spring mvc, Spring Boot, DataBase(SQL)
 >> 2. Front-end <br>
 >> : HTML, CSS, javascript, jsp <br>
->>> - 최종 프로젝트 상세설명 (https://github.com/hsy2493/Project_Planner)<br>
->>> - PPT 자료 (https://github.com/hsy2493/Project_Planner/issues/1#issue-2509863227)<br>
->>> - 동영상 시청 : PPT 발표 및 Project Planner (PMS) 사이트 시연 (https://blog.naver.com/hsy24317/223574635493)<br>
+>>> - 최종 프로젝트 상세설명<br> 
+>>>  https://github.com/hsy2493/Project_Planner<br>
+>>> - PPT 자료 <br>
+>>>  https://github.com/hsy2493/Project_Planner/issues/1#issue-2509863227<br>
+>>> - 동영상 시청 - PPT 발표 및 Project Planner (PMS) 사이트 시연 <br>
+>>>  https://blog.naver.com/hsy24317/223574635493<br>
 
 ## 2. 기차표 예매 사이트 🚂
 
@@ -53,8 +56,10 @@ PPT 제작, <br>
 >> : Java, Spring mvc, DataBase(Mybatis)
 >> 2. Front-end <br>
 >> : HTML, CSS, javascript, jsp<br>
->>> - 4회차 프로젝트 상세설명 (https://github.com/hsy2493/HumanRail999)<br>
->>> - PPT 자료 (https://github.com/hsy2493/HumanRail999/issues/1#issue-2509856113)<br> 
+>>> - 4회차 프로젝트 상세설명<br>
+>>>   https://github.com/hsy2493/HumanRail999<br>
+>>> - PPT 자료<br>
+>>>   https://github.com/hsy2493/HumanRail999/issues/1#issue-2509856113<br> 
 
 ## 3. 인터넷 강의 사이트 💻
 
@@ -70,8 +75,10 @@ PPT 제작, <br>
 >> : Java, Spring mvc, DataBase(SQL)
 >> 2. Front-end <br>
 >> : HTML, CSS, Javascript, jsp <br>
->>> - 3회차 프로젝트 상세설명 (https://github.com/hsy2493/ETC)<br>
->>> - PPT 자료 (https://github.com/hsy2493/ETC/issues/1#issue-2509846953) <br>
+>>> - 3회차 프로젝트 상세설명<br>
+>>>   https://github.com/hsy2493/ETC<br>
+>>> - PPT 자료<br>
+>>>   https://github.com/hsy2493/ETC/issues/1#issue-2509846953 <br>
 
 ## 4. 자격증 사이트 📝
 
@@ -85,8 +92,10 @@ PPT 제작, <br>
 >> - 스킬
 >> 1. Front-end <br>
 >> : HTML, CSS, Javascript, jsp <br>
->>> - 2회차 프로젝트 상세설명 (https://github.com/hsy2493/O1Y3)<br>
->>> - PPT 자료 (https://github.com/hsy2493/O1Y3/issues/1#issue-2509827477) <br>
+>>> - 2회차 프로젝트 상세설명 <br>
+>>>  https://github.com/hsy2493/O1Y3<br>
+>>> - PPT 자료<br>
+>>>  https://github.com/hsy2493/O1Y3/issues/1#issue-2509827477 <br>
 
 ## 5. 온라인 게임 사이트 ⚔
 
@@ -100,8 +109,10 @@ PPT 제작, <br>
 >> - 스킬
 >> 1. Front-end <br>
 >> : HTML, CSS, Javascript  
->>> - 1회차 프로젝트 상세설명 (https://github.com/hsy2493/HumanBox)<br>
->>> - PPT 자료 (https://github.com/hsy2493/HumanBox/issues/1#issue-2509844041) <br>
+>>> - 1회차 프로젝트 상세설명<br>
+>>>   https://github.com/hsy2493/HumanBox<br>
+>>> - PPT 자료<br>
+>>>   https://github.com/hsy2493/HumanBox/issues/1#issue-2509844041 <br>
 ## 6. TV 프로그램 시청 사이트 📺
 
 >Watcha 사이트 - 미니 프로젝트 [참고 사이트 - 왓챠(Watcha) (https://watcha.com/)] <br>
@@ -112,8 +123,10 @@ PPT 제작, <br>
 >> - 스킬
 >> 1. Front-end <br>
 >>: HTML, CSS
->>> - 미니 프로젝트 상세설명 (https://github.com/hsy2493/Watcha)<br>
->>> - PPT 자료 (https://github.com/hsy2493/Watcha/issues/1#issue-2509838508)<br>
+>>> - 미니 프로젝트 상세설명<br>
+>>>   https://github.com/hsy2493/Watcha<br>
+>>> - PPT 자료<br>
+>>>   https://github.com/hsy2493/Watcha/issues/1#issue-2509838508<br>
 
 
 # 연락처(Contact) 📬
