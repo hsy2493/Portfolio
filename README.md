@@ -31,7 +31,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >>   <br>
 >> - 스킬
 >> 1. Back-end <br>
->> : Java, Spring mvc, Spring Boot, DataBase(SQL)
+>> : Java, Spring mvc, Spring Boot, DataBase
 >> 2. Front-end <br>
 >> : HTML, CSS, javascript, jsp <br>
 >>> - 최종 프로젝트 상세설명<br> 
@@ -52,7 +52,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >>   <br>
 >> - 스킬
 >> 1. Back-end <br>
->> : Java, Spring mvc, DataBase(Mybatis)
+>> : Java, Spring mvc, DataBase
 >> 2. Front-end <br>
 >> : HTML, CSS, javascript, jsp<br>
 >>> - 4회차 프로젝트 상세설명<br>
