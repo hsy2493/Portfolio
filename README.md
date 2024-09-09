@@ -89,8 +89,10 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> - 핵심 기술 : 워크 플로우 작성<br>
 >>   <br>
 >> - 스킬
+>> 2. Back-end <br>
+>> : Java <br>
 >> 1. Front-end <br>
->> : HTML, CSS, Javascript, jsp <br>
+>> : HTML, CSS, Javascript, jsp <br>    
 >>> - 2회차 프로젝트 상세설명 <br>
 >>>  https://github.com/hsy2493/O1Y3 <br>
 >>> - PPT 자료<br>
