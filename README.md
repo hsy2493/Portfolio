@@ -1,5 +1,5 @@
 # 포트폴리오(Portfolio) 📚
-황서영(Hwang SeoYoung) - 포트폴리오(Portfolio)
+황서영(SeoYoung Hwang) - 포트폴리오(Portfolio)
 
 ##  자기소개(Intro) 😀
 >안녕하세요!<br>
