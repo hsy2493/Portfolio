@@ -29,7 +29,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> - 역할 : PPT 제작, 문서 형식 제작
 >> - 핵심 기술 : Spring Boot 사용, SVN 사용, 프로젝트 테스트 시나리오 작성, Bootstrap 템플릿 사용<br>
 >>   <br>
->> - 스킬
+>> - 사용 스킬
 >> 1. Back-end <br>
 >> : Java, Spring mvc, Spring Boot, DataBase
 >> 2. Front-end <br>
@@ -52,7 +52,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> - 역할 : PPT 제작, 문서 형식 제작
 >> - 핵심 기술 : 데이터 베이스(Database) 테이블(Table) 설계/ERD 설계, Spring mvc 사용, Bootstrap 템플릿 사용<br>
 >>   <br>
->> - 스킬
+>> - 사용 스킬
 >> 1. Back-end <br>
 >> : Java, Spring mvc, DataBase
 >> 2. Front-end <br>
@@ -71,7 +71,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> - 역할 : 문서 형식 제작
 >> - 핵심 기술 : 데이터 베이스(Database) 테이블(Table) 설계, Spring mvc 사용, Bootstrap 템플릿 사용<br>
 >>   <br>
->> - 스킬
+>> - 사용 스킬
 >> 1. Back-end <br>
 >> : Java, Spring mvc, DataBase
 >> 2. Front-end <br>
@@ -90,10 +90,10 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> - 역할 : PPT 제작, 문서 형식 제작
 >> - 핵심 기술 : 워크 플로우 작성<br>
 >>   <br>
->> - 스킬
->> 2. Back-end <br>
+>> - 사용 스킬
+>> 1. Back-end <br>
 >> : Java <br>
->> 1. Front-end <br>
+>> 2. Front-end <br>
 >> : HTML, CSS, Javascript, JSP <br>    
 >>> - 2회차 프로젝트 상세설명 <br>
 >>>  https://github.com/hsy2493/O1Y3 <br>
@@ -109,7 +109,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >> - 역할 : PPT 제작, 문서 형식 제작
 >> - 핵심 기술 : 일정표, 역할 분담, 요구사항 정의서, 화면설계, 화면/기능 구현 작성
 >>   <br><br>
->> - 스킬
+>> - 사용 스킬
 >> 1. Front-end <br>
 >> : HTML, CSS, Javascript  
 >>> - 1회차 프로젝트 상세설명<br>
@@ -123,7 +123,7 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 > - 기간 : 2024. 03. 27 ~ 2024. 04. 03
 >> - 주요 기능 : 로그인, 회원가입<br>
 >>   <br>
->> - 스킬
+>> - 사용 스킬
 >> 1. Front-end <br>
 >>: HTML, CSS
 >>> - 미니 프로젝트 상세설명<br>
