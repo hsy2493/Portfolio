@@ -38,10 +38,10 @@ PPT 제작, 프로젝트 문서(일정표 작성, 요구사항 정의서 작성,
 >>>  https://github.com/hsy2493/Project_Planner<br>
 >>> - PPT 자료 <br>
 >>>  https://github.com/hsy2493/Project_Planner/issues/1#issue-2509863227<br>
->>> - 동영상 시청 - PPT 발표 및 Project Planner 사이트 시연 <br>
->>>  https://blog.naver.com/hsy24317/223574635493<br>
 >>>- 프로젝트 통합 테스트 시나리오 자료 <br>
 >>> https://github.com/hsy2493/Project_Planner/issues/3#issue-2518452886 <br>
+>>> - 동영상 시청 - PPT 발표 및 Project Planner 사이트 시연 <br>
+>>>  https://blog.naver.com/hsy24317/223574635493<br>
 
 ## 2. 기차표 예매 사이트 🚂
 
